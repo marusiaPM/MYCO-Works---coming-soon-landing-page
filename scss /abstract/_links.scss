@@ -1,0 +1,9 @@
+.textLink{
+   @include P1;
+   color: $or;
+   text-decoration: none !important;
+
+   &:hover{
+      color: $dBl;
+   }
+}

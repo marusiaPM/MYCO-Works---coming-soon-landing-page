@@ -1,0 +1,49 @@
+//SLIDE DOWN ANIMATION
+@mixin slideD-10px {
+    animation: slideDown 1s;
+    
+    @keyframes slideDown {
+        0% {
+            transform: translateY(-10px);
+            opacity: 0.5;
+        }
+        100% {
+            transform: translateY(0);
+            opacity: 1;
+        }
+    }
+}
+
+//UP AND DOWN INFINITE
+@mixin upAndDown {
+    animation: upAndDown 2s ease-in-out infinite;
+    
+    @keyframes upAndDown {
+        0% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-15px);
+        }
+        100% {
+            transform: translateY(0);
+        } 
+    }
+}
+
+//LEFT AND BACK INFINITE
+@mixin leftAndBack {
+    animation: an 2s ease-in-out infinite;
+    
+    @keyframes an {
+        0% {
+            transform: translateX(0);
+        }
+        50% {
+            transform: translateX(-15px);
+        }
+        100% {
+            transform: translateX(0);
+        } 
+    }
+}

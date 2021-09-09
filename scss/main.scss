@@ -1,0 +1,29 @@
+/*---BASE FILES---*/ 
+@import 'base/reset'; // reset the document, font size to 10rem, zeroes padding and margin
+
+
+/*---ABSTRACT FILES---*/ 
+@import 'abstract/colors'; //color variables
+@import 'abstract/fontsAndText'; //font variables and text mix-ins
+@import'abstract/display';
+@import'abstract/animations';
+@import'abstract/links';
+
+
+/*---LAYOUT FILES---*/
+
+
+/*---CONTAINERS---*/ 
+@import 'containers/containers';
+
+
+/*---ELEMENTS---*/
+@import 'elements/forms';
+
+
+/*---PAGES--*/
+@import 'pages/landing-page';
+@import 'pages/thank-you';
+
+
+
