@@ -8,8 +8,8 @@ if($_POST) {
 	$visitor_email = "";
 	$visitor_message = "";
 	$email_body = "<div>";
-	$recipient = "izabella@thelondonoffice.com";
-	$recipient_Bcc = "jamie@thelondonoffice.com";
+	$recipient = "marusia.petrova.m@gmail.com";
+	$recipient_Bcc = "marusia.petrova.m@gmail.com";
 
 	if(isset($_POST['visitor_name'])) {
 		$visitor_name = filter_var($_POST['visitor_name'], FILTER_SANITIZE_STRING);
