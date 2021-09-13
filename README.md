@@ -1,5 +1,3 @@
-# MYCO-Works---coming-soon-landing-page
-
 ![MYCO-landing-mock-up](https://user-images.githubusercontent.com/29373747/133117148-ab84862f-d54f-4780-a44f-53ecf15542f0.png)
 
 Live at: 
