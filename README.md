@@ -7,4 +7,4 @@ MYCO Works - coming soon page:
 a landing page for a new company, based in Ipswich.
 
 My Role:
-Working closely with the senior designer, I led the development of the whole website.
+Working closely with the senior designer, I led the development of the whole website. 
